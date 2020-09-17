@@ -1,4 +1,4 @@
-const key = 'YOUR KEY';
+const key = 'YOUR API KEY';
 const playlistId = 'YOUR FAVORITE PLAYLIST ID';
 
 fetch(
